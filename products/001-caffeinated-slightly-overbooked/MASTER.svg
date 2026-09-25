@@ -1,25 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
-  <title>Caffeinated &amp; Slightly Overbooked</title>
-  <desc>Original coffee and work-life typography graphic for apparel.</desc>
-  <g fill="none" stroke="#111111" stroke-width="55" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M900 1050 H3600"/>
-    <path d="M900 4350 H3600"/>
-    <path d="M1120 1250 H3380"/>
-    <path d="M1120 4150 H3380"/>
+  <title>Caffeinated &amp; Slightly Overbooked — Hero Design V2</title>
+  <desc>Original one-color apparel graphic combining oversized typography with a coffee cup and calendar-inspired line illustration.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900" letter-spacing="12">CAFFEINATED</text>
+    <text x="2250" y="1920" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="700" letter-spacing="18">AND SLIGHTLY</text>
   </g>
-  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="2250" y="1850" font-size="430" font-weight="800" letter-spacing="18">CAFFEINATED</text>
-    <text x="2250" y="2450" font-size="260" font-weight="700" letter-spacing="10">&amp; SLIGHTLY</text>
-    <text x="2250" y="3650" font-size="430" font-weight="800" letter-spacing="18">OVERBOOKED</text>
+  <g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1050 2250 H3450"/>
+    <rect x="1325" y="2450" width="1850" height="1350" rx="120"/>
+    <path d="M1325 2810 H3175"/>
+    <path d="M1700 2290 V2510 M2800 2290 V2510"/>
+    <path d="M1730 3070 H1850 M2030 3070 H2150 M2330 3070 H2450 M2630 3070 H2750"/>
+    <path d="M1730 3350 H1850 M2030 3350 H2150 M2330 3350 H2450 M2630 3350 H2750"/>
+    <path d="M3175 2920 H3340 C3490 2920 3600 3030 3600 3180 C3600 3330 3490 3440 3340 3440 H3175"/>
+    <path d="M1660 2650 C1660 2500 1770 2390 1920 2390"/>
+    <path d="M2250 2650 C2250 2500 2360 2390 2510 2390"/>
+    <path d="M2840 2650 C2840 2500 2950 2390 3100 2390"/>
   </g>
-  <g fill="none" stroke="#111111" stroke-width="55" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M1710 2750 H2790 V3190 C2790 3360 2650 3500 2480 3500 H2020 C1850 3500 1710 3360 1710 3190 Z"/>
-    <path d="M2790 2860 H2970 C3130 2860 3250 2980 3250 3140 C3250 3300 3130 3420 2970 3420 H2780"/>
-    <path d="M1920 2620 C1920 2480 2020 2380 2160 2380"/>
-    <path d="M2250 2620 C2250 2480 2350 2380 2490 2380"/>
-    <path d="M2580 2620 C2580 2480 2680 2380 2820 2380"/>
-  </g>
-  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
-    <text x="2250" y="4050" font-size="155" font-weight="700" letter-spacing="22">RUNNING ON COFFEE + CALENDAR CHAOS</text>
+  <g fill="#111111">
+    <circle cx="1790" cy="3070" r="38"/>
+    <circle cx="2090" cy="3070" r="38"/>
+    <circle cx="2390" cy="3070" r="38"/>
+    <circle cx="2690" cy="3070" r="38"/>
+    <text x="2250" y="4200" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="390" font-weight="900" letter-spacing="10">OVERBOOKED</text>
+    <text x="2250" y="4540" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="700" letter-spacing="24">COFFEE • CALENDAR • REPEAT</text>
   </g>
 </svg>
