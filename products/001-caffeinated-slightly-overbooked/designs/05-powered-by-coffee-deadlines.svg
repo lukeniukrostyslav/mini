@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Powered by Coffee and Deadlines</title>
+  <desc>Original split-power apparel graphic combining a coffee cup and deadline meter.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1120" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="330" font-weight="800" letter-spacing="18">POWERED BY</text>
+    <text x="2250" y="1650" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="560" font-weight="900" letter-spacing="4">COFFEE</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="62" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1500 2350 H2750 V3000 A420 420 0 0 1 1910 3000 V2350"/>
+    <path d="M2750 2470 H2980 A330 330 0 0 1 2980 2870 H2760"/>
+    <path d="M1810 2140 C1810 1990 1930 1920 1930 1780"/>
+    <path d="M2110 2140 C2110 1990 2230 1920 2230 1780"/>
+    <path d="M2410 2140 C2410 1990 2530 1920 2530 1780"/>
+    <path d="M1420 3250 H3080"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="3780" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900" letter-spacing="2">DEADLINES</text>
+    <text x="2250" y="4180" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="155" font-weight="700" letter-spacing="22">COFFEE IN • PRESSURE OUT</text>
+  </g>
+</svg>
