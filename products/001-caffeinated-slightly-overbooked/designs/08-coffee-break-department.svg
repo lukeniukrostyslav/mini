@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Coffee Break Department</title>
+  <desc>Original office-stamp inspired coffee department apparel graphic.</desc>
+  <g fill="#111111">
+    <text x="2250" y="980" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="250" font-weight="800" letter-spacing="22">COFFEE BREAK</text>
+    <text x="2250" y="1390" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="700" letter-spacing="34">DEPARTMENT</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="2250" cy="2530" r="930"/>
+    <circle cx="2250" cy="2530" r="760"/>
+    <path d="M1600 2350 H2450 V2920 A380 380 0 0 1 1690 2920 V2350"/>
+    <path d="M2450 2480 H2660 A300 300 0 0 1 2660 2820 H2470"/>
+    <path d="M1790 2180 C1790 2040 1900 1970 1900 1840 M2110 2180 C2110 2040 2220 1970 2220 1840 M2430 2180 C2430 2040 2540 1970 2540 1840"/>
+    <path d="M1250 2530 H1450 M3050 2530 H3250"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="3370" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" letter-spacing="22">AUTHORIZED PERSONNEL</text>
+    <text x="2250" y="3800" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="330" font-weight="900">CAFFEINATED</text>
+    <text x="2250" y="4210" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="135" font-weight="700" letter-spacing="20">OFFICE HOURS: UNTIL THE CUP IS EMPTY</text>
+  </g>
+</svg>
