@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Out of Office, In My Head</title><desc>Original office status panel apparel graphic.</desc>
+<g fill="#111111">
+<text x="2250" y="1000" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="245" font-weight="800" letter-spacing="22">OUT OF OFFICE</text>
+<text x="2250" y="1500" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="500" font-weight="900">IN MY HEAD</text>
+</g>
+<g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+<rect x="760" y="2050" width="2980" height="1650" rx="70"/>
+<path d="M760 2470 H3740"/>
+<circle cx="1040" cy="2260" r="70"/><circle cx="1280" cy="2260" r="70"/><circle cx="1520" cy="2260" r="70"/>
+<rect x="1040" y="2740" width="1040" height="430" rx="50"/>
+<path d="M1200 2870 H1900 M1200 3020 H1700"/>
+<path d="M2450 2870 C2600 2700 2820 2700 2960 2870 C3090 3030 2990 3230 2790 3270 C2580 3310 2400 3170 2450 2870 Z"/>
+<path d="M2650 3070 C2740 3000 2830 3000 2920 3070"/>
+<path d="M2700 2840 C2700 2740 2790 2680 2860 2600"/>
+</g>
+<g fill="#111111">
+<text x="2250" y="4060" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="155" font-weight="900" letter-spacing="18">STATUS: PRESENT • LOCATION: SOMEWHERE ELSE</text>
+</g>
+</svg>
