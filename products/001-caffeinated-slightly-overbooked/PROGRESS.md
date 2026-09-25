@@ -10,12 +10,12 @@ Last updated: 2026-09-26
 | B01 — Market / niche research | Complete | 100% |
 | B02 — Product concept & commercial brief | Complete | 100% |
 | B03 — Original artwork masters — 20 designs | 20/20 masters created | 100% |
-| B04 — PNG production pipeline | Pipeline implemented; full run verification pending | 100% |
+| B04 — PNG production pipeline | 20/20 PNGs rendered and validated in GitHub Actions; assets committed | 100% |
 | B05 — SVG production QA | Structural QA substantially complete | 96% |
 | B06 — Mockups / listing visuals | Not started | 0% |
 | B07 — Packaging / ZIP / buyer instructions | Buyer documentation exists; final ZIP pending | 20% |
 | B08 — Listing copy / SEO metadata | Initial listing draft exists; final research pass pending | 30% |
-| B09 — Print & technical QA | Automated validator implemented; complete release QA pending | 35% |
+| B09 — Print & technical QA | Automated 20/20 render + 20/20 transparent PNG validation + contact sheet verified; release QA pending | 45% |
 | B10 — IP / originality review | Product-level review started; dedicated phrase/trademark gate pending | 50% |
 | B11 — Marketplace readiness | Not started | 0% |
 | B12 — Final human-style acceptance | Not started | 0% |
@@ -37,13 +37,13 @@ No 100% release claim until all of these are verified:
 
 ## Current overall estimate
 
-Approximately 72%.
+Approximately 73%.
 
 This percentage is a production-progress estimate, not a sales probability.
 
 ## Next production sequence
 
-1. verify the 20-asset rendering workflow;
+1. perform collection-wide thumbnail review on the verified 20-asset render;
 2. perform collection-wide thumbnail review;
 3. revise any weak/redundant designs;
 4. create actual-asset mockups;
