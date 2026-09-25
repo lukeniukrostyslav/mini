@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SRC = ROOT / "products/001-caffeinated-slightly-overbooked/generated"
 OUT = SRC / "PRODUCT-001-CONTACT-SHEET.png"
 
-files = sorted(SRC.glob("*.png"))
+files = sorted(p for p in SRC.glob("*.png") if p.name != OUT.name)
 assert len(files) == 20, f"Expected 20 PNGs, found {len(files)}"
 
 thumb_w, thumb_h = 360, 432
