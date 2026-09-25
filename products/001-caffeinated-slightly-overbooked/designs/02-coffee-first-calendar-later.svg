@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Coffee First, Calendar Later</title>
+  <desc>Original minimalist coffee and calendar apparel graphic.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1350" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900" letter-spacing="8">COFFEE</text>
+    <text x="2250" y="1810" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="700" letter-spacing="28">FIRST</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1050 2170 H3450"/>
+    <path d="M1450 2420 H3050 V3650 H1450 Z"/>
+    <path d="M1450 2810 H3050"/>
+    <path d="M1750 2300 V2550 M2750 2300 V2550"/>
+    <path d="M1700 3100 H1900 M2100 3100 H2300 M2500 3100 H2700"/>
+    <path d="M1700 3410 H1900 M2100 3410 H2300 M2500 3410 H2700"/>
+    <path d="M3050 2780 H3250 C3420 2780 3550 2910 3550 3080 C3550 3250 3420 3380 3250 3380 H3050"/>
+    <path d="M1710 2680 C1710 2520 1830 2400 1990 2400"/>
+    <path d="M2250 2680 C2250 2520 2370 2400 2530 2400"/>
+    <path d="M2790 2680 C2790 2520 2910 2400 3070 2400"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="4220" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="430" font-weight="900" letter-spacing="6">CALENDAR</text>
+    <text x="2250" y="4580" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="150" font-weight="700" letter-spacing="22">LATER • VERY MUCH LATER</text>
+  </g>
+</svg>
