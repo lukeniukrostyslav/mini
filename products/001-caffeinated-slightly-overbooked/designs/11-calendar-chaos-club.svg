@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Calendar Chaos Club</title>
+  <desc>Original editorial grid graphic about overloaded schedules and coffee.</desc>
+  <g fill="#111111">
+    <text x="2250" y="900" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="240" font-weight="800" letter-spacing="30">CALENDAR CHAOS</text>
+    <text x="2250" y="1420" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900">CLUB</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="54" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="920" y="1850" width="2660" height="1650" rx="40"/>
+    <path d="M920 2260 H3580 M920 2670 H3580 M920 3080 H3580"/>
+    <path d="M1360 1850 V3500 M1800 1850 V3500 M2240 1850 V3500 M2680 1850 V3500 M3120 1850 V3500"/>
+    <path d="M2060 2800 H2680 V3240 A310 310 0 0 1 2060 3240 V2800"/>
+    <path d="M2680 2890 H2850 A220 220 0 0 1 2850 3160 H2700"/>
+    <path d="M2180 2670 C2180 2550 2270 2490 2270 2390 M2440 2670 C2440 2550 2530 2490 2530 2390"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="3890" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="900" letter-spacing="18">EVERY BOX IS A MEETING</text>
+    <text x="2250" y="4280" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="125" font-weight="700" letter-spacing="18">SCHEDULE FULL • CUP FULL • SEND HELP</text>
+  </g>
+</svg>
