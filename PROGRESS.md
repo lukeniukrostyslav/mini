@@ -28,9 +28,9 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B00 | Repository & production rules | 100% |
 | B01 | Market / niche research | 100% |
 | B02 | Product concept & commercial brief | 100% |
-| B03 | Original artwork master — 20 designs | 65% |
+| B03 | Original artwork master — 20 designs | 70% |
 | B04 | PNG production | 100%* |
-| B05 | SVG production QA | 70% |
+| B05 | SVG production QA | 72% |
 | B06 | Mockups / listing visuals | 0% |
 | B07 | Packaging / ZIP / buyer instructions | 20% |
 | B08 | Listing copy / SEO metadata | 30% |
@@ -38,15 +38,16 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B10 | IP / originality review | 50% |
 | B11 | Marketplace readiness | 0% |
 | B12 | Final human-style acceptance | 0% |
-| TOTAL | Product 001 | ≈53% |
+| TOTAL | Product 001 | ≈55% |
 
 ## Current work
 
-- Seven original design directions are now in the collection pipeline.
-- The current research pass reviewed 2026 T-shirt guidance emphasizing art+text combinations, humor, bold/decorative typography, readable short messages, and restrained palettes. These are design inputs, not sales guarantees.
-- Design 07 introduces a different visual grammar: a structured workload grid interrupted by a coffee/brewing motif, so the collection is not built from repeated cup illustrations.
-- Future designs will deliberately rotate visual systems (typography-led, visual metaphor, retro badge, grid/editorial, illustration-led) while keeping the collection cohesive.
-- IP review remains separate from design production; a popular phrase or trend does not automatically mean a phrase is safe to sell.
+- Eight original design directions are now in the collection pipeline.
+- The latest research pass used current Etsy and Printful 2026 guidance. Etsy's Marketplace Insights is based on direct Etsy search data and can expose search volume, listing counts, related terms and recent trend data; this will be treated as the stronger validation layer when available. citeturn0search0
+- Etsy's 2026 trend reporting is based on U.S. signed-in activity and is directional rather than a sales guarantee. citeturn0search1
+- Current T-shirt guidance continues to highlight art+text, statement typography, humor, retro/Y2K and concise readable compositions. citeturn0search2turn0search5
+- Design 08 deliberately changes the visual system to an office-department seal, preventing the collection from becoming a sequence of near-identical coffee-cup illustrations.
+- Popular phrases are not automatically treated as safe. Originality and IP review remains a separate gate before final acceptance.
 
 ## Quality gate
 
