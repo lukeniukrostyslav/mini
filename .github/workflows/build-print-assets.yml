@@ -21,8 +21,8 @@ jobs:
           python-version: "3.12"
       - name: Install renderer
         run: pip install cairosvg
-      - name: Render PNG
-        run: python tools/render_product_001.py
+      - name: Render all 20 PNG assets
+        run: python tools/render_all_product_001.py
       - name: Commit generated asset
         run: |
           git config user.name "mini-asset-bot"
