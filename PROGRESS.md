@@ -28,9 +28,9 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B00 | Repository & production rules | 100% |
 | B01 | Market / niche research | 100% |
 | B02 | Product concept & commercial brief | 100% |
-| B03 | Original artwork master — 20 designs | 75% |
+| B03 | Original artwork master — 20 designs | 80% |
 | B04 | PNG production | 100%* |
-| B05 | SVG production QA | 75% |
+| B05 | SVG production QA | 78% |
 | B06 | Mockups / listing visuals | 0% |
 | B07 | Packaging / ZIP / buyer instructions | 20% |
 | B08 | Listing copy / SEO metadata | 30% |
@@ -38,16 +38,16 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B10 | IP / originality review | 50% |
 | B11 | Marketplace readiness | 0% |
 | B12 | Final human-style acceptance | 0% |
-| TOTAL | Product 001 | ≈56% |
+| TOTAL | Product 001 | ≈58% |
 
 ## Current work
 
-- Nine original design directions are now in the collection pipeline.
-- Fresh September 2026 research confirms that Etsy is continuing to invest in relevance, differentiated inventory and buyer-intent search. Etsy's current Marketplace Insights exposes search volume, listing counts, related terms and trend data, while Etsy is testing additional metrics such as price ranges and search conversion rate. These are useful validation inputs when available. citeturn0search0turn0search3
-- Etsy's latest published 2026 trend report uses U.S. signed-in buyer activity and should be treated as directional evidence, not a sales forecast. citeturn0search1
-- Current T-shirt guidance highlights humor, bold/decorative typography, short messages and simple art/text combinations. citeturn0search2
-- Design 09 deliberately uses a morning-club identity system to add a different buyer identity angle without copying a brand or existing logo.
-- IP review remains separate from design production. A phrase being common or popular does not automatically establish trademark clearance.
+- Ten original design directions are now in the collection pipeline.
+- Current research was refreshed before this design pass. Etsy Marketplace Insights provides direct search data, including searches, listings, related terms and 30-day trends; Etsy is also testing longer date ranges, listing price ranges, search conversion rate and week-over-week trend views. citeturn0search0turn0search1
+- Current 2026 T-shirt guidance continues to emphasize bold/decorative typography, concise messages, limited palettes and readable hierarchy. citeturn0search4turn0search5
+- Printful's current 2026 guidance also highlights art + text combinations as a strong design format because the visual supplies attention while the text adds context. citeturn0search6
+- Design 10 uses an emergency-alert metaphor rather than another generic coffee cup slogan. The design language is original and does not intentionally reproduce a real emergency-service logo.
+- Marketplace competition is extremely price-diverse, including very large low-price bundles, so our commercial differentiation must come from curated quality, cohesive art direction, useful formats and presentation rather than simply increasing file count. citeturn0search8
 
 ## Quality gate
 
