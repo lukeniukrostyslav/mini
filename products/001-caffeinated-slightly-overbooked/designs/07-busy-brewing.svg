@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Busy Brewing</title>
+  <desc>Original split-panel coffee and workload apparel graphic.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1150" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="620" font-weight="900" letter-spacing="8">BUSY</text>
+    <text x="2250" y="1690" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="800" letter-spacing="34">BUT</text>
+    <text x="2250" y="2240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="620" font-weight="900" letter-spacing="8">BREWING</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="62" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M950 2720 H3550"/>
+    <path d="M1320 3150 H1980 M2520 3150 H3180"/>
+    <path d="M1320 3500 H1980 M2520 3500 H3180"/>
+    <path d="M1320 3850 H1980 M2520 3850 H3180"/>
+    <rect x="2020" y="2860" width="460" height="1150" rx="70"/>
+    <path d="M2140 2860 V2700 M2360 2860 V2700"/>
+    <path d="M2080 3150 H2420 M2080 3500 H2420 M2080 3850 H2420"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="4470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="155" font-weight="700" letter-spacing="24">INBOX FULL • CUP FULL • STILL GOING</text>
+  </g>
+</svg>
