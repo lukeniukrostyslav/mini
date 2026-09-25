@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Caffeinated &amp; Slightly Overbooked</title>
+  <desc>Original coffee and work-life typography graphic for apparel.</desc>
+  <g fill="none" stroke="#111111" stroke-width="55" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M900 1050 H3600"/>
+    <path d="M900 4350 H3600"/>
+    <path d="M1120 1250 H3380"/>
+    <path d="M1120 4150 H3380"/>
+  </g>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="2250" y="1850" font-size="430" font-weight="800" letter-spacing="18">CAFFEINATED</text>
+    <text x="2250" y="2450" font-size="260" font-weight="700" letter-spacing="10">&amp; SLIGHTLY</text>
+    <text x="2250" y="3650" font-size="430" font-weight="800" letter-spacing="18">OVERBOOKED</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="55" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1710 2750 H2790 V3190 C2790 3360 2650 3500 2480 3500 H2020 C1850 3500 1710 3360 1710 3190 Z"/>
+    <path d="M2790 2860 H2970 C3130 2860 3250 2980 3250 3140 C3250 3300 3130 3420 2970 3420 H2780"/>
+    <path d="M1920 2620 C1920 2480 2020 2380 2160 2380"/>
+    <path d="M2250 2620 C2250 2480 2350 2380 2490 2380"/>
+    <path d="M2580 2620 C2580 2480 2680 2380 2820 2380"/>
+  </g>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="2250" y="4050" font-size="155" font-weight="700" letter-spacing="22">RUNNING ON COFFEE + CALENDAR CHAOS</text>
+  </g>
+</svg>
