@@ -28,9 +28,9 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B00 | Repository & production rules | 100% |
 | B01 | Market / niche research | 100% |
 | B02 | Product concept & commercial brief | 100% |
-| B03 | Original artwork master — 20 designs | 70% |
+| B03 | Original artwork master — 20 designs | 75% |
 | B04 | PNG production | 100%* |
-| B05 | SVG production QA | 72% |
+| B05 | SVG production QA | 75% |
 | B06 | Mockups / listing visuals | 0% |
 | B07 | Packaging / ZIP / buyer instructions | 20% |
 | B08 | Listing copy / SEO metadata | 30% |
@@ -38,16 +38,16 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B10 | IP / originality review | 50% |
 | B11 | Marketplace readiness | 0% |
 | B12 | Final human-style acceptance | 0% |
-| TOTAL | Product 001 | ≈55% |
+| TOTAL | Product 001 | ≈56% |
 
 ## Current work
 
-- Eight original design directions are now in the collection pipeline.
-- The latest research pass used current Etsy and Printful 2026 guidance. Etsy's Marketplace Insights is based on direct Etsy search data and can expose search volume, listing counts, related terms and recent trend data; this will be treated as the stronger validation layer when available. citeturn0search0
-- Etsy's 2026 trend reporting is based on U.S. signed-in activity and is directional rather than a sales guarantee. citeturn0search1
-- Current T-shirt guidance continues to highlight art+text, statement typography, humor, retro/Y2K and concise readable compositions. citeturn0search2turn0search5
-- Design 08 deliberately changes the visual system to an office-department seal, preventing the collection from becoming a sequence of near-identical coffee-cup illustrations.
-- Popular phrases are not automatically treated as safe. Originality and IP review remains a separate gate before final acceptance.
+- Nine original design directions are now in the collection pipeline.
+- Fresh September 2026 research confirms that Etsy is continuing to invest in relevance, differentiated inventory and buyer-intent search. Etsy's current Marketplace Insights exposes search volume, listing counts, related terms and trend data, while Etsy is testing additional metrics such as price ranges and search conversion rate. These are useful validation inputs when available. citeturn0search0turn0search3
+- Etsy's latest published 2026 trend report uses U.S. signed-in buyer activity and should be treated as directional evidence, not a sales forecast. citeturn0search1
+- Current T-shirt guidance highlights humor, bold/decorative typography, short messages and simple art/text combinations. citeturn0search2
+- Design 09 deliberately uses a morning-club identity system to add a different buyer identity angle without copying a brand or existing logo.
+- IP review remains separate from design production. A phrase being common or popular does not automatically establish trademark clearance.
 
 ## Quality gate
 
