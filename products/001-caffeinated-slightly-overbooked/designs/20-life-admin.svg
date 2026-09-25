@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Life Admin</title><desc>Original adult-life checklist graphic.</desc>
+<g fill="#111">
+<text x="2250" y="1100" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="570" font-weight="900" letter-spacing="14">LIFE</text>
+<text x="2250" y="1700" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="570" font-weight="900" letter-spacing="14">ADMIN</text>
+</g>
+<g fill="none" stroke="#111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+<rect x="850" y="2200" width="2800" height="1450" rx="80"/>
+<path d="M850 2650 H3650"/>
+<rect x="1080" y="2920" width="250" height="250"/>
+<path d="M1135 3040 L1195 3100 L1300 2975"/>
+<path d="M1490 3045 H3200"/>
+<rect x="1080" y="3280" width="250" height="250"/>
+<path d="M1490 3405 H3000"/>
+</g>
+<g fill="#111">
+<text x="2250" y="4140" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="165" font-weight="900" letter-spacing="14">TASK 01: PAY BILLS</text>
+<text x="2250" y="4490" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="130" font-weight="700" letter-spacing="11">TASK 02: REMEMBER TASK 01</text>
+</g>
+</svg>
