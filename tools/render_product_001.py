@@ -11,5 +11,6 @@ cairosvg.svg2png(
     write_to=str(out),
     output_width=4500,
     output_height=5400,
+    background_color=None,
 )
-print(f"Generated {out} at 4500x5400 RGBA.")
+print(f"Generated {out} at 4500x5400 with transparent background.")
