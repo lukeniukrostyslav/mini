@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Daily Grind Department</title>
+  <desc>Original retro-inspired coffee department apparel graphic.</desc>
+  <g fill="none" stroke="#111111" stroke-width="52" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M850 1100 H3650 V4300 H850 Z"/>
+    <path d="M850 1650 H3650"/>
+    <path d="M1250 1100 V850 M3250 1100 V850"/>
+    <path d="M1250 850 H1550 M2950 850 H3250"/>
+    <circle cx="2250" cy="2450" r="610"/>
+    <path d="M1880 2450 H2250 L2480 2210"/>
+    <path d="M2250 1840 V1920 M2250 2980 V3060 M1640 2450 H1720 M2780 2450 H2860"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="1450" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="300" font-weight="900" letter-spacing="24">DAILY GRIND</text>
+    <text x="2250" y="3380" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="360" font-weight="900" letter-spacing="16">DEPARTMENT</text>
+    <text x="2250" y="3770" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="700" letter-spacing="28">EST. BEFORE THE FIRST SIP</text>
+  </g>
+</svg>
