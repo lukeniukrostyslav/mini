@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Meeting Could Have Been an Email</title><desc>Original editorial email and meeting humor apparel graphic.</desc>
+<g fill="#111111">
+<text x="2250" y="980" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="260" font-weight="800" letter-spacing="18">MEETING</text>
+<text x="2250" y="1450" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="430" font-weight="900">COULD HAVE</text>
+<text x="2250" y="1880" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="430" font-weight="900">BEEN AN EMAIL</text>
+</g>
+<g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+<rect x="850" y="2350" width="2800" height="1550" rx="90"/>
+<path d="M900 2420 L2250 3350 L3600 2420"/>
+<path d="M1180 3740 L1950 3020 M3320 3740 L2550 3020"/>
+<rect x="1260" y="2040" width="720" height="430" rx="50"/>
+<path d="M1390 2180 H1850 M1390 2320 H1710"/>
+<circle cx="3160" cy="2180" r="230"/>
+<path d="M3160 2040 V2190 L3260 2250"/>
+</g>
+<text x="2250" y="4350" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="140" font-weight="700" letter-spacing="18" fill="#111111">AGENDA: 60 MINUTES • PURPOSE: STILL UNKNOWN</text>
+</svg>
