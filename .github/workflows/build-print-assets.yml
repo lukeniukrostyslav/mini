@@ -23,6 +23,8 @@ jobs:
         run: pip install cairosvg
       - name: Render all 20 PNG assets
         run: python tools/render_all_product_001.py
+      - name: Validate all print assets
+        run: pip install pillow && python tools/validate_all_print_assets.py
       - name: Commit generated asset
         run: |
           git config user.name "mini-asset-bot"
