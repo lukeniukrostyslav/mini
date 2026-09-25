@@ -24,41 +24,34 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 - marketplace-ready listing copy and SEO metadata
 - technical, IP, and final human-style QA
 
-**Market reference:** current Etsy examples show 20-design bundles around $2.19–$7.48, depending on niche, format, quality, and promotion. We will use this range as market context, not as a promise of sales. citeturn0search0turn0search2
-
 | Block | Scope | Progress |
 |---|---|---:|
 | B00 | Repository & production rules | 100% |
 | B01 | Market / niche research | 100% |
 | B02 | Product concept & commercial brief | 100% |
-| B03 | Original artwork master — 20 designs | 45% |
+| B03 | Original artwork master — 20 designs | 55% |
 | B04 | PNG production | 100% |
-| B05 | SVG production QA | 60% |
+| B05 | SVG production QA | 65% |
 | B06 | Mockups / listing visuals | 0% |
 | B07 | Packaging / ZIP / buyer instructions | 20% |
 | B08 | Listing copy / SEO metadata | 30% |
-| B09 | Print & technical QA | 25% |
-| B10 | IP / originality review | 45% |
+| B09 | Print & technical QA | 30% |
+| B10 | IP / originality review | 50% |
 | B11 | Marketplace readiness | 0% |
 | B12 | Final human-style acceptance | 0% |
-| TOTAL | Product 001 | ≈48% |
+| TOTAL | Product 001 | ≈50% |
 
-## Current verified evidence
+## Current work
 
-- SVG master is committed to main.
-- 4500×5400 transparent PNG was generated successfully by GitHub Actions and is committed to main.
-- Deterministic print QA workflow is running against the committed assets.
-- IP review is documented, but formal trademark clearance is still open.
-- Mockups and final packaging are not complete.
-- The bundle scope is now **20 designs**, not 10.
-- The target commercial price is **$6–7** for the 20-design bundle.
+- Product 001 hero artwork was redesigned as V2 and committed to the main branch.
+- The redesign shifts toward the current 2026 direction: oversized typography, stronger negative space, a simple original line illustration, and a clearer visual hook.
+- Fresh market research confirms typography-led minimalism, retro/block display type, art + text combinations, humor, and strong readable hierarchy as active 2026 directions.
+- A current search for the exact working phrase did not surface a direct matching product in the reviewed search results, but this is **not** formal trademark clearance.
+- The phrase/category remains commercially crowded. Current Etsy results include many coffee typography bundles, including 31-design coffee bundles around $1–3, so generic coffee quotes will not be accepted as sufficient differentiation.
+- Community feedback also shows some coffee-shirt buyers are tired of repetitive generic coffee slogans, reinforcing the need for original visual humor rather than another generic coffee-first design.
 
-## Production rule for the 20 designs
+## Non-negotiable quality rule
 
-Every design must pass the same quality gate independently. We do not count duplicated, minimally changed, unfinished, or filler designs toward the 20.
+The 20 designs will be developed as a coherent collection but each must stand alone at thumbnail size. A design is not counted toward the 20 if it is filler, a minor variation, technically unsafe, too close to a competitor, or not commercially polished.
 
-We will use fresh market research during the design process, especially for current visual direction, typography, niche demand, and marketplace presentation. Competitor products are research references only; artwork and compositions must be original.
-
-## Release rule
-
-Product 001 cannot be called finished until B03–B12 are actually verified. No artificial 100% claims.
+No artificial 100% claims.
