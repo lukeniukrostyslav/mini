@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Deadline Fuel</title>
+  <desc>Original coffee fuel gauge apparel graphic.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1320" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="500" font-weight="900" letter-spacing="8">DEADLINE</text>
+    <text x="2250" y="1780" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="210" font-weight="700" letter-spacing="30">FUEL</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1120 2420 H3380"/>
+    <path d="M1420 2420 A830 830 0 0 1 3080 2420"/>
+    <path d="M2250 2420 L2740 1910"/>
+    <path d="M1510 2420 H2990"/>
+    <path d="M2250 1690 V1780 M1660 1810 L1720 1880 M2840 1810 L2780 1880"/>
+    <path d="M1340 2760 H3160"/>
+    <path d="M1650 3060 H2850"/>
+    <path d="M1950 3360 H2550"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="2770" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="180" font-weight="900" letter-spacing="20">EMPTY • LOW • SURVIVING</text>
+    <text x="2250" y="3690" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="430" font-weight="900" letter-spacing="6">CAFFEINE</text>
+    <text x="2250" y="4070" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="700" letter-spacing="24">REFILL BEFORE THE NEXT MEETING</text>
+  </g>
+</svg>
