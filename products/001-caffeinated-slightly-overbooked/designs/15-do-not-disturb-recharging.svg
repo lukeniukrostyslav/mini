@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Do Not Disturb: I'm Recharging</title><desc>Original battery recharge metaphor apparel graphic.</desc>
+<g fill="#111111">
+<text x="2250" y="1150" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="350" font-weight="900" letter-spacing="14">DO NOT DISTURB</text>
+<text x="2250" y="1650" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="330" font-weight="800">I'M RECHARGING</text>
+</g>
+<g fill="none" stroke="#111111" stroke-width="72" stroke-linejoin="round">
+<rect x="850" y="2250" width="2800" height="1250" rx="110"/>
+<path d="M3650 2640 H3820 V3110 H3650"/>
+</g>
+<path d="M1050 2450 H1450 V2670 H2050 V2450 H2450 V3300 H1050 Z" fill="#111111"/>
+<path d="M1850 2820 L2200 2820 L1980 3180 L2500 2750 L2150 2750 L2370 2390 Z" fill="#ffffff"/>
+<g fill="#111111">
+<text x="2250" y="4050" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="170" font-weight="800" letter-spacing="16">CURRENT STATUS: RESTORING ENERGY</text>
+<text x="2250" y="4380" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="120" font-weight="700" letter-spacing="12">PLEASE CHECK BACK WHEN THE BAR IS FULL</text>
+</g>
+</svg>
