@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>Morning Shift Coffee Club</title>
+  <desc>Original coffee club badge for early workday humor.</desc>
+  <g fill="#111111">
+    <text x="2250" y="820" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="190" font-weight="800" letter-spacing="34">THE MORNING SHIFT</text>
+    <text x="2250" y="1290" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="460" font-weight="900" letter-spacing="6">COFFEE CLUB</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="2250" cy="2550" r="930"/>
+    <circle cx="2250" cy="2550" r="760"/>
+    <path d="M1760 2430 H2590 V2990 A380 380 0 0 1 1830 2990 V2430"/>
+    <path d="M2590 2540 H2800 A300 300 0 0 1 2800 2890 H2610"/>
+    <path d="M1940 2240 C1940 2100 2050 2030 2050 1900 M2250 2240 C2250 2100 2360 2030 2360 1900 M2560 2240 C2560 2100 2670 2030 2670 1900"/>
+    <path d="M1280 2550 H1500 M3000 2550 H3220"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="3470" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="900" letter-spacing="18">EARLY START • STRONG BREW</text>
+    <text x="2250" y="3880" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="135" font-weight="700" letter-spacing="18">MEMBER SINCE THE FIRST ALARM</text>
+  </g>
+</svg>
