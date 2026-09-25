@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Not Today</title><desc>Original adult-life boundary humor graphic with a calendar strike-through metaphor.</desc>
+<g fill="#111">
+<text x="2250" y="1200" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="720" font-weight="900" letter-spacing="10">NOT</text>
+<text x="2250" y="1950" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="720" font-weight="900" letter-spacing="10">TODAY</text>
+</g>
+<g fill="none" stroke="#111" stroke-width="62" stroke-linejoin="round" stroke-linecap="round">
+<rect x="900" y="2380" width="2700" height="1350" rx="90"/>
+<path d="M900 2780 H3600"/>
+<path d="M1250 2200 V2580 M3250 2200 V2580"/>
+<path d="M1180 3300 L3320 3300"/>
+<path d="M1180 3000 L3320 3600"/>
+<circle cx="1450" cy="3160" r="95"/><circle cx="3050" cy="3160" r="95"/>
+</g>
+<g fill="#111">
+<text x="2250" y="4160" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="175" font-weight="800" letter-spacing="15">REQUEST DENIED</text>
+<text x="2250" y="4500" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="120" font-weight="700" letter-spacing="10">TRY AGAIN TOMORROW</text>
+</g>
+</svg>
