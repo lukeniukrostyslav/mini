@@ -5,7 +5,12 @@ ROOT = Path(__file__).resolve().parents[1]
 PRODUCT = ROOT / "products/001-caffeinated-slightly-overbooked"
 OUT = PRODUCT / "generated"
 OUT.mkdir(parents=True, exist_ok=True)
-# Remove stale generated PNGs so validation/contact-sheet counts only this run.\nfor stale in OUT.glob("*.png"):\n    stale.unlink()\n\nmasters = [PRODUCT / "MASTER.svg"] + sorted((PRODUCT / "designs").glob("*.svg"))
+
+# Remove stale generated PNGs so validation/contact-sheet counts only this run.
+for stale in OUT.glob("*.png"):
+    stale.unlink()
+
+masters = [PRODUCT / "MASTER.svg"] + sorted((PRODUCT / "designs").glob("*.svg"))
 count = 0
 
 for src in masters:
