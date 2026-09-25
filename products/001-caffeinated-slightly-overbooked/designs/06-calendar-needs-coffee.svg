@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+  <title>My Calendar Needs Coffee Too</title>
+  <desc>Original calendar and coffee cup apparel graphic.</desc>
+  <g fill="#111111">
+    <text x="2250" y="1050" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="300" font-weight="800" letter-spacing="18">MY CALENDAR</text>
+    <text x="2250" y="1510" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900">NEEDS</text>
+    <text x="2250" y="1980" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="520" font-weight="900">COFFEE TOO</text>
+  </g>
+  <g fill="none" stroke="#111111" stroke-width="60" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1050" y="2350" width="2400" height="1450" rx="70"/>
+    <path d="M1050 2750 H3450 M1450 2170 V2520 M3050 2170 V2520"/>
+    <path d="M1320 3120 H1640 M1850 3120 H2170 M2380 3120 H2700 M2910 3120 H3230"/>
+    <path d="M1320 3470 H1640 M1850 3470 H2170 M2380 3470 H2700 M2910 3470 H3230"/>
+    <path d="M2050 3650 H2700 V4020 A250 250 0 0 1 2200 4020 V3650"/>
+    <path d="M2700 3730 H2860 A190 190 0 0 1 2860 3950 H2710"/>
+    <path d="M2240 3500 C2240 3380 2340 3310 2340 3200 M2480 3500 C2480 3380 2580 3310 2580 3200"/>
+  </g>
+  <g fill="#111111">
+    <text x="2250" y="4440" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="145" font-weight="700" letter-spacing="20">MEETING AFTER MEETING • CUP AFTER CUP</text>
+  </g>
+</svg>
