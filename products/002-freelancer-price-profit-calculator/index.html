@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Freelancer Price & Profit Calculator">
+  <title>Freelancer Price & Profit Calculator</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><div class="brand-mark">↗</div><div><strong>Freelancer</strong><strong>Price & Profit</strong><strong>Calculator</strong></div></div>
+    <p class="tagline">Price smarter.<br>Earn more.<br>Work with confidence.</p>
+    <nav>
+      <button class="nav active" data-target="dashboard">▣ <span>Project Calculator</span></button>
+      <button class="nav" data-target="hourly">◷ <span>Hourly Rate</span></button>
+      <button class="nav" data-target="quote">▤ <span>Client Quote</span></button>
+      <button class="nav" data-target="profit">◒ <span>Profit & Costs</span></button>
+      <button class="nav" data-target="scenarios">⌁ <span>Scenarios</span></button>
+      <button class="nav" data-target="expenses">▦ <span>Expenses</span></button>
+      <button class="nav" data-target="settings">⚙ <span>Settings</span></button>
+      <button class="nav" data-target="instructions">ⓘ <span>Instructions</span></button>
+    </nav>
+  </aside>
+
+  <main class="main">
+    <header class="topbar">
+      <div>
+        <h1>Project Calculator</h1>
+        <p>Enter your project details and get a price with real profit calculation.</p>
+      </div>
+      <div class="top-actions"><div class="currency"><button class="selected">€ EUR</button><button>$ USD</button><button>£ GBP</button></div><button class="theme">☼</button></div>
+    </header>
+
+    <section id="dashboard" class="view active-view">
+      <div class="grid top-grid">
+        <section class="card inputs">
+          <h2><span class="icon blue">▤</span>1. Project Details</h2>
+          <label>Project name<input id="projectName" value="Website Design"></label>
+          <label>Estimated hours<div class="input-suffix"><input id="hours" type="number" value="25" min="0"><span>hours</span></div></label>
+          <label>Your desired hourly rate<div class="input-suffix"><span>€</span><input id="rate" type="number" value="50" min="0"></div></label>
+          <label>Number of revisions<select id="revisions"><option>1</option><option selected>2</option><option>3</option><option>4</option><option>5</option></select></label>
+          <label>Platform fee<div class="input-suffix"><input id="fee" type="number" value="5" min="0" max="100"><span>%</span></div></label>
+          <label>Tax reserve<div class="input-suffix"><input id="tax" type="number" value="20" min="0" max="100"><span>%</span></div></label>
+          <label>Direct project costs<div class="input-suffix"><span>€</span><input id="costs" type="number" value="100" min="0"></div></label>
+          <label>Discount<div class="input-suffix"><input id="discount" type="number" value="0" min="0" max="100"><span>%</span></div></label>
+        </section>
+
+        <section class="card results">
+          <h2><span class="icon green">▣</span>2. Pricing Results</h2>
+          <div class="price-cards">
+            <div class="price-card blue-bg"><small>Minimum Price</small><strong id="minimum">€1,350</strong><span>Covers your time + costs</span></div>
+            <div class="price-card green-bg featured"><small>Recommended Price</small><strong id="recommended">€1,650</strong><span>Healthy margin & fair value</span><b>RECOMMENDED</b></div>
+            <div class="price-card orange-bg"><small>Premium Price</small><strong id="premium">€2,050</strong><span>Higher value, bigger buffer</span></div>
+          </div>
+          <div class="metrics">
+            <div><small>Total Revenue</small><strong id="revenue">€1,650</strong></div>
+            <div><small>Platform Fee</small><strong id="feeOut">− €82.50</strong></div>
+            <div><small>Project Costs</small><strong id="costOut">− €100</strong></div>
+            <div><small>Tax Reserve</small><strong id="taxOut">− €330</strong></div>
+          </div>
+          <div class="profit-row">
+            <div class="profit-main"><small>Net Profit</small><strong id="profit">€1,137.50</strong></div>
+            <div><small>Profit Margin</small><strong id="margin">69%</strong></div>
+            <div><small>Effective Hourly Rate</small><strong id="effective">€45.50</strong></div>
+          </div>
+        </section>
+
+        <section class="card breakdown">
+          <h2><span class="icon pie">◒</span>3. Profit Breakdown</h2>
+          <div class="donut"><div><strong id="donutProfit">69%</strong><small>NET PROFIT</small></div></div>
+          <div class="legend"><span><i class="g"></i>Net Profit <b id="legendProfit">€1,137.50</b></span><span><i class="b"></i>Tax Reserve <b id="legendTax">€330</b></span><span><i class="y"></i>Platform Fee <b id="legendFee">€82.50</b></span><span><i class="r"></i>Project Costs <b id="legendCost">€100</b></span></div>
+          <div class="bar-title">Price Comparison</div>
+          <div class="bars"><div><i id="bar1"></i><b id="bar1v">€1,350</b><span>Minimum</span></div><div><i id="bar2"></i><b id="bar2v">€1,650</b><span>Recommended</span></div><div><i id="bar3"></i><b id="bar3v">€2,050</b><span>Premium</span></div></div>
+        </section>
+      </div>
+
+      <div class="modules">
+        <article class="module" data-target="hourly"><h3>◷ Hourly Rate Calculator</h3><p>Calculate your ideal hourly rate based on your goals.</p><div class="module-result">Recommended hourly rate<strong>€56.25</strong></div></article>
+        <article class="module" data-target="quote"><h3>▤ Client Quote</h3><p>Professional quote template for your client.</p><div class="quote-mini"><b>Project Proposal</b><span>Website Design</span><span>Total <strong id="quoteTotal">€1,650</strong></span></div></article>
+        <article class="module" data-target="profit"><h3>◒ Profit & Costs</h3><p>Detailed breakdown of all costs and profit.</p><div class="mini-table"><span>Revenue <b id="miniRev">€1,650</b></span><span>Fees + tax <b id="miniDeductions">− €412.50</b></span><span>Net profit <b id="miniProfit">€1,137.50</b></span></div></article>
+        <article class="module" data-target="scenarios"><h3>⌁ Scenarios</h3><p>Compare different pricing scenarios.</p><div class="scenario-mini"><span>Minimum <b>€1,350</b></span><span>Recommended <b>€1,650</b></span><span>Premium <b>€2,050</b></span></div></article>
+        <article class="module" data-target="expenses"><h3>▦ Expense Tracker</h3><p>Track project expenses.</p><div class="expense-mini"><span>Stock photos <b>€30</b></span><span>Plugin license <b>€50</b></span><span>Design assets <b>€20</b></span></div></article>
+      </div>
+    </section>
+
+    <section id="hourly" class="view"><div class="card page-card"><h2>Hourly Rate Calculator</h2><p>Set your income goal and separate billable from non-billable time.</p><div class="form-grid"><label>Target monthly income<input type="number" value="3000"></label><label>Billable hours / month<input type="number" value="100"></label><label>Non-billable hours / month<input type="number" value="40"></label><label>Monthly expenses<input type="number" value="500"></label><label>Tax reserve %<input type="number" value="20"></label></div><div class="big-result">Recommended hourly rate <strong>€56.25</strong></div></div></section>
+    <section id="quote" class="view"><div class="card page-card quote-page"><h2>Client Quote</h2><div class="quote-paper"><div class="quote-brand">YOUR LOGO</div><h3>Project Proposal</h3><p>Project: <b id="quoteProject">Website Design</b></p><div class="quote-total">Total <strong id="quoteTotal2">€1,650</strong></div><hr><p>Scope, deliverables, timeline and revision policy can be added here.</p></div></div></section>
+    <section id="profit" class="view"><div class="card page-card"><h2>Profit & Costs</h2><div class="profit-large"><div><small>Revenue</small><strong id="profitRevenue">€1,650</strong></div><div><small>Fees</small><strong id="profitFees">€82.50</strong></div><div><small>Tax reserve</small><strong id="profitTax">€330</strong></div><div><small>Net profit</small><strong id="profitNet">€1,137.50</strong></div></div></div></section>
+    <section id="scenarios" class="view"><div class="card page-card"><h2>Pricing Scenarios</h2><table><thead><tr><th>Scenario</th><th>Hours</th><th>Price</th><th>Profit</th><th>Margin</th></tr></thead><tbody id="scenarioBody"></tbody></table></div></section>
+    <section id="expenses" class="view"><div class="card page-card"><h2>Expense Tracker</h2><div class="expense-form"><input placeholder="Description"><input type="number" placeholder="Amount"><button>Add expense</button></div><table><thead><tr><th>Description</th><th>Amount</th></tr></thead><tbody><tr><td>Stock photos</td><td>€30</td></tr><tr><td>Plugin license</td><td>€50</td></tr><tr><td>Design assets</td><td>€20</td></tr></tbody></table></div></section>
+    <section id="settings" class="view"><div class="card page-card"><h2>Settings</h2><p>Currency, fee and tax assumptions can be adjusted from the Project Calculator.</p></div></section>
+    <section id="instructions" class="view"><div class="card page-card"><h2>How it works</h2><ol><li>Enter your project hours and desired hourly rate.</li><li>Add fees, tax reserve and direct costs.</li><li>Review three pricing scenarios.</li><li>Use Recommended Price as your starting quote.</li><li>Always adapt tax assumptions to your own situation.</li></ol></div></section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
