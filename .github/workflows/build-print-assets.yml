@@ -25,11 +25,19 @@ jobs:
         run: python tools/render_all_product_001.py
       - name: Validate all print assets
         run: pip install pillow && python tools/validate_all_print_assets.py
+      - name: Create visual contact sheet
+        run: python tools/create_product_001_contact_sheet.py
       - name: Upload rendered collection for QA
         uses: actions/upload-artifact@v4
         with:
           name: product-001-rendered-20
           path: products/001-caffeinated-slightly-overbooked/generated/*.png
+          if-no-files-found: error
+      - name: Upload contact sheet
+        uses: actions/upload-artifact@v4
+        with:
+          name: product-001-contact-sheet
+          path: products/001-caffeinated-slightly-overbooked/generated/PRODUCT-001-CONTACT-SHEET.png
           if-no-files-found: error
       - name: Commit generated asset
         run: |
