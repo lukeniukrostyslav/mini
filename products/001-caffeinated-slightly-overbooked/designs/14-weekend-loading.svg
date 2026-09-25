@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Weekend Loading</title><desc>Original retro progress-bar apparel graphic.</desc>
+<g fill="#111111">
+<text x="2250" y="1250" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="430" font-weight="900" letter-spacing="16">WEEKEND</text>
+<text x="2250" y="1720" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="430" font-weight="900" letter-spacing="16">LOADING</text>
+</g>
+<g fill="none" stroke="#111111" stroke-width="70" stroke-linecap="square">
+<rect x="700" y="2250" width="3100" height="650"/>
+<rect x="840" y="2390" width="560" height="370" fill="#111111" stroke="none"/>
+<rect x="1470" y="2390" width="560" height="370" fill="#111111" stroke="none"/>
+<rect x="2100" y="2390" width="560" height="370" fill="#111111" stroke="none"/>
+<rect x="2730" y="2390" width="560" height="370" fill="#111111" stroke="none"/>
+<rect x="3360" y="2390" width="300" height="370" fill="none"/>
+</g>
+<g fill="#111111">
+<text x="2250" y="3400" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" letter-spacing="18">88% • PLEASE WAIT</text>
+<text x="2250" y="3820" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="130" font-weight="700" letter-spacing="14">CURRENT TASK: DOING ABSOLUTELY LESS</text>
+</g>
+</svg>
