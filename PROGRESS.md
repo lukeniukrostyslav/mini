@@ -14,15 +14,15 @@ Percentages are gate-based. A block reaches 100% only when every required sub-bl
 | B02 | Product concept & commercial brief | 100% |
 | B03 | Original artwork master — 20 designs | 100% |
 | B04 | PNG production | 100%* |
-| B05 | SVG production QA | 95% |
+| B05 | SVG production QA | 96% |
 | B06 | Mockups / listing visuals | 0% |
 | B07 | Packaging / ZIP / buyer instructions | 20% |
 | B08 | Listing copy / SEO metadata | 30% |
-| B09 | Print & technical QA | 30% |
+| B09 | Print & technical QA | 35% |
 | B10 | IP / originality review | 50% |
 | B11 | Marketplace readiness | 0% |
 | B12 | Final human-style acceptance | 0% |
-| TOTAL | Product 001 | ≈71% |
+| TOTAL | Product 001 | ≈72% |
 
 ## Current direction
 
