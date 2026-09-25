@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4500" height="5400" viewBox="0 0 4500 5400">
+<title>Low Battery High Expectations</title><desc>Original adult-life battery metaphor apparel graphic.</desc>
+<g fill="#111111">
+<text x="2250" y="1150" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="360" font-weight="900" letter-spacing="12">LOW BATTERY</text>
+<text x="2250" y="1650" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="340" font-weight="800">HIGH EXPECTATIONS</text>
+</g>
+<g fill="none" stroke="#111111" stroke-width="68" stroke-linejoin="round">
+<rect x="800" y="2250" width="2900" height="1200" rx="100"/>
+<path d="M3700 2650 H3860 V3050 H3700"/>
+</g>
+<rect x="1040" y="2490" width="520" height="720" fill="#111111"/>
+<path d="M1940 2850 L2240 2850 L2040 3180 L2580 2700 L2280 2700 L2480 2370 Z" fill="#111111"/>
+<g fill="#111111">
+<text x="2250" y="4050" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="165" font-weight="800" letter-spacing="15">ENERGY: 12% • AMBITION: 100%</text>
+<text x="2250" y="4380" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="125" font-weight="700" letter-spacing="10">ADULTING REMAINS IN BETA</text>
+</g>
+</svg>
